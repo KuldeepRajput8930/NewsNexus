@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He, Nectar Gan",
+            "title": "Evergrande, symbol of China’s property crisis, heads to liquidation - CNN",
+            "description": "Evergrande Group, the world’s most indebted property developer, was ordered to be liquidated by a Hong Kong court on Monday, according to Chinese media.",
+            "url": "https://www.cnn.com/2024/01/29/business/evergrande-ordered-to-liquidate-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240129110851-evergrande-court-hearing-hk.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-29T07:18:45Z",
+            "content": "Evergrande Group, the worlds most indebted property developer, has been ordered to liquidate by a Hong Kong court, in a massive setback for Chinas ailing real estate sector that could ripple through … [+3181 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Charles McDonald",
+            "title": "Ravens' dream season amid Lamar Jackson's MVP run ends with tears, a helmet slam and mistakes that'll haunt them this offseason - Yahoo Sports",
+            "description": "If the Ravens had known coming into the game that they would hold the Chiefs to 17 points and zero in the second half, they probably would've felt good about...",
+            "url": "https://sports.yahoo.com/ravens-dream-season-amid-lamar-jacksons-mvp-run-ends-with-tears-a-helmet-slam-and-mistakes-thatll-haunt-them-this-offseason-040326617.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/I7Bi4zfcZGgnOPffLzraEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/4e5a0a60-be57-11ee-84b3-6580544010ae",
+            "publishedAt": "2024-01-29T06:11:47Z",
+            "content": "BALTIMORE Roquan Smith wasnt afraid to wear his emotions on his sleeve after the Baltimore Ravens 17-10, season-ending loss to the Kansas City Chiefs in the AFC championship game on Sunday. To see a … [+5520 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Eric Williams",
+            "title": "49ers come back from brink of collapse to beat Lions, punch Super Bowl ticket - FOX Sports",
+            "description": "The San Francisco 49ers scored 27 straight points in the second half to rally from a likely loss to a Super Bowl berth.",
+            "url": "https://www.foxsports.com/stories/nfl/49ers-come-back-from-brink-of-collapse-to-beat-lions-punch-super-bowl-ticket",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/01/1408/814/49ers-NFCCG-horizontal.jpg?ve=1&tl=1",
+            "publishedAt": "2024-01-29T05:58:17Z",
+            "content": "SANTA CLARA, Calif. Playing in the NFC Championship for the third straight year but the first at Levi's Stadium the San Francisco 49ers believed home-field advantage would help push them over the top… [+5763 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hakyung Kim",
+            "title": "Stock futures fall ahead of big tech earnings and Fed meeting decision: Live updates - CNBC",
+            "description": "Stock futures were lower Sunday night ahead of a busy earnings week and Fed policy decision.",
+            "url": "https://www.cnbc.com/2024/01/28/stock-futures-fall-ahead-of-big-tech-earnings-and-fed-meeting-decision-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107363060-1706024363954-gettyimages-1953262139-ms2_3153_vk59oe2r.jpeg?v=1706482388&w=1920&h=1080",
+            "publishedAt": "2024-01-29T05:37:00Z",
+            "content": "U.S. stock futures were mixed on Monday morning as Wall Street looked toward several mega-cap tech earnings reports and the Federal Reserve's rate policy decision. \r\nFutures tied to the Dow Jones Ind… [+1803 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Liakos, Oscar Holland",
+            "title": "Protesters hurl soup at the ‘Mona Lisa’ in Paris - CNN",
+            "description": "Two demonstrators hurled soup at Leonardo da Vinci’s “Mona Lisa” in Paris, though the painting was protected from damage by its glass casing.",
+            "url": "https://www.cnn.com/2024/01/28/europe/soup-thrown-mona-lisa-louvre-paris-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240128060922-paris-mona-lisa-soup.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-29T05:29:00Z",
+            "content": "Protesters hurled soup at the Mona Lisa painting in Paris on Sunday, but it was protected from damage by its glass casing.\r\nThe environmental group Riposte Alimentaire which roughly translates to Foo… [+2780 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "Travis Kelce & Taylor Swift Celebrating AFC Championship Prompts ‘One Tree Hill’ Throwback - Deadline",
+            "description": "Taylor Swift and Travis Kelce’s celebratory embrace and kiss after the Kansas City Chiefs took the Lamar Hunt trophy following their victory over the Baltimore Ravens at the AFC Championship …",
+            "url": "http://deadline.com/2024/01/travis-kelce-taylor-swift-afc-championship-one-tree-hill-throwback-1235807277/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/01/travis-kelce-taylor-swift-chad-michael-murray-hilarie-burton-one-tree-hill.jpg?w=1024",
+            "publishedAt": "2024-01-29T04:55:00Z",
+            "content": "Taylor Swift and Travis Kelce‘s celebratory embrace and kiss after the Kansas City Chiefs took the Lamar Hunt trophy following their victory over the Baltimore Ravens at the AFC Championship game has… [+1378 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Deutsche Welle",
+            "title": "AfD loses run-off in first vote since mass-deportation story - DW (English)",
+            "description": "The far-right party lost a district vote despite its candidate having a large lead two weeks ago. AfD has been the target of massive protests of late after a damning expose was published about its plans for governing.",
+            "url": "https://www.dw.com/en/afd-loses-run-off-in-first-vote-since-mass-deportation-story/a-68108758",
+            "urlToImage": "https://static.dw.com/image/68108688_6.jpg",
+            "publishedAt": "2024-01-29T03:36:05Z",
+            "content": "Christian Herrgott of the conservative CDU beat out far-right Alternative for Germany (AfD) candidate Uwe Thrum in a regional run-off election in the eastern German state of Thuringia on Sunday.\r\nThe… [+2378 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joe Sutton",
+            "title": "2 dead, including suspect, and 2 police officers wounded in Florida shootout - CNN",
+            "description": "Two people died and two police officers in Palm Bay, Florida, were injured Sunday afternoon when the officers responded to a domestic disturbance call, according to local authorities.",
+            "url": "https://www.cnn.com/2024/01/28/us/florida-palm-bay-police-shooting/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240128180443-02-palm-beach-officers-shot-012824.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-29T03:25:00Z",
+            "content": "Two people died and two police officers in Palm Bay, Florida, were injured Sunday afternoon when the officers responded to a domestic disturbance call, according to local authorities.\r\nThe two office… [+1705 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "The “Surprisingly Different” JN.1 Variant Is a Game-Changer in Our COVID Battle - SciTechDaily",
+            "description": "The JN.1 COVID-19 variant, emerging in late 2023, marks a significant shift in the virus's evolution, emphasizing the need for sustained global health efforts. Since it was detected in August 2023, the JN.1 variant of COVID has spread widely. It has become do…",
+            "url": "https://scitechdaily.com/the-surprisingly-different-jn-1-variant-is-a-game-changer-in-our-covid-battle/",
+            "urlToImage": "https://scitechdaily.com/images/COVID-Evolution-Virus-Variant-Concept.jpg",
+            "publishedAt": "2024-01-29T03:19:31Z",
+            "content": "BySuman Majumdar, Brendan Crabb, Emma Pakula, and Stuart TurvilleJanuary 28, 2024JN.1, a new COVID-19 variant detected in August 2023, has quickly spread worldwide, showing significant evolutionary c… [+7185 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Miranda Nazzaro",
+            "title": "X blocks searches of Taylor Swift to combat explicit deepfakes - The Hill",
+            "description": "The social media platform X, formerly known as Twitter, has blocked searches of pop superstar Taylor Swift after explicit, artificial intelligence (AI) generated images went viral on social media, an executive confirmed Sunday. As of Sunday night, searches of…",
+            "url": "https://thehill.com/policy/technology/4434813-x-blocks-searches-of-taylor-swift-to-combat-explicit-deepfakes/",
+            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/01/659b817c779631.56219234-e1706298989782.jpeg?w=1280",
+            "publishedAt": "2024-01-29T03:09:00Z",
+            "content": "Skip to content\r\nThe social media platform X, formerly known as Twitter, has blocked searches of pop superstar Taylor Swift after explicit, artificial intelligence (AI) generated images went viral on… [+1933 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "Haley says RNC \"clearly not\" honest broker in Republican primary - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2024/01/28/haley-trump-rnc-republican-primary-election",
+            "urlToImage": null,
+            "publishedAt": "2024-01-29T02:56:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WLWT Cincinnati"
+            },
+            "author": null,
+            "title": "Bengals quarterback Joe Burrow chimes in on AFC Championship game - WLWT Cincinnati",
+            "description": "Bengals quarterback Joe Burrow chimes in on AFC Championship game",
+            "url": "https://www.wlwt.com/article/bengals-quarterback-joe-burrow-chimes-afc-championship-game/46563373",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1701613361-65b6f39031af9.jpg?crop=1.00xw:0.846xh;0,0.00488xh&resize=1200:*",
+            "publishedAt": "2024-01-29T01:36:00Z",
+            "content": "CINCINNATI —Even though Joe Burrow and the Cincinnati Bengals aren't participating in this year's AFC Championship game, it isn't enough to keep the quarterback from giving his two cents on X, the so… [+627 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Haley Britzky, Natasha Bertrand, Oren Liebermann",
+            "title": "Three US troops killed in drone attack in Jordan, more than 30 injured - CNN",
+            "description": "Three US Army soldiers were killed and more than 30 service members were injured in a drone attack overnight on a small US outpost in Jordan, US officials told CNN, marking the first time US troops have been killed by enemy fire in the Middle East since the b…",
+            "url": "https://www.cnn.com/2024/01/28/politics/us-troops-drone-attack-jordan/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/63440784-9271-4e57-805c-1a56267d131b.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-29T01:27:00Z",
+            "content": "Three US Army soldiers were killed and more than 30 service members were injured in a drone attack overnight on a small US outpost in Jordan, US officials told CNN, marking the first time US troops h… [+5946 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "American Airlines' hard landing on Maui sends 6 to hospital - ABC News",
+            "description": "Five American Airlines flight attendants and one passenger are recovering after their flight from Los Angeles made a a hard landing on Maui",
+            "url": "https://abcnews.go.com/US/wireStory/american-airlines-hard-landing-maui-sends-6-hospital-106749589",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2024-01-29T00:53:48Z",
+            "content": "HONOLULU -- An American Airlines flight from Los Angeles made a hard landing at Maui's main airport, sending five flight attendants and one passenger to the hospital.\r\nThe six were later released, th… [+329 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Bradford Betz",
+            "title": "Republican ex-judge argued Trump engaged in insurrection, should be removed from Illinois primary ballot - Fox News",
+            "description": "A Republican retired judge is arguing that former President Trump should be removed from Illinois’ primary ballot for engaging in an insurrection in the Jan. 6 US Capitol attacks.",
+            "url": "https://www.foxnews.com/politics/republican-ex-judge-argued-trump-engaged-insurrection-should-removed-illinois-primary-ballot",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/6b7cb5c2-2.jpg",
+            "publishedAt": "2024-01-29T00:53:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+2733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Reuters",
+            "title": "North Korea tests submarine-launched cruise missiles, KCNA says - New York Post ",
+            "description": "North Korea tested its new strategic cruise missiles for the second time in a week on Sunday, calling it a newly developed submarine-launched cruise missile, state media reported.",
+            "url": "https://nypost.com/2024/01/28/news/north-korea-tests-submarine-launched-cruise-missiles-kcna-says/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-qhmjvtgbh-1706485800590.jpg?quality=75&strip=all&1706467968&w=1024",
+            "publishedAt": "2024-01-29T00:13:00Z",
+            "content": "SEOUL North Korea tested its new strategic cruise missiles for the second time in a week on Sunday, calling it a newly developed submarine-launched cruise missile (SLCM), accelerating its navy’s nucl… [+2745 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Greg Wehner",
+            "title": "Japan joins list of countries suspending funds to UNRWA after allegations of staffers participating on Oct 7 - Fox News",
+            "description": "Japan announced it was suspending funds to the United Nations Relief and Works Agency (UNRWA) after allegations staffers participated in Oct. 7 massacre.",
+            "url": "https://www.foxnews.com/world/japan-joins-list-countries-suspending-funds-unrwa-allegations-staffers-participating",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/11/GettyImages-1246665222.jpg",
+            "publishedAt": "2024-01-28T23:58:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus get unlimited access to thousands of articles, videos and more with your free account!\r\nPlease enter a valid email address.\r\nBy entering your email, you… [+4811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Chris Nesi",
+            "title": "5 asteroids, including one the size of a sports stadium, expected to pass near Earth - New York Post ",
+            "description": "An asteroid the size of a sports stadium is currently hurdling towards the Earth, and will be joined by four other celestial near-misses this week, with the largest expected to pass within less tha…",
+            "url": "https://nypost.com/2024/01/28/news/5-asteroids-including-one-the-size-of-a-sports-stadium-to-pass-near-earth-this-week/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/01/newspress-collage-0nujmljua-1706484176463.jpg?quality=75&strip=all&1706466240&w=1024",
+            "publishedAt": "2024-01-28T23:36:00Z",
+            "content": "An asteroid the size of a sports stadium was hurdling towards the Earth this week and will be joined by four other celestial near-misses, with the largest expected to pass within less than 2 million … [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "'The Beekeeper' battles 'Mean Girls' for No. 1 at weekend box office - Entertainment Weekly News",
+            "description": "It's round three of Jason Statham vs. The Plastics: 'Mean Girls' and 'The Beekeeper' are battling for the top spot at this weekend's box office.",
+            "url": "https://ew.com/the-beekeeper-battles-mean-girls-for-no-1-at-box-office-8551112",
+            "urlToImage": "https://ew.com/thmb/feOL5HpU043usNdhCUtTUCvh1p0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/box-office-012824-split-c949f33ae829463a937b32b940241495.jpg",
+            "publishedAt": "2024-01-28T23:18:28Z",
+            "content": "North Shore High has a new Queen Bee and its Jason Statham?\r\nScratch that, The Plastics are still the coolest part of school, but those Mean Girls have stiff competition at the weekend box office in … [+2764 chars]"
+        }
+    ]
+}
