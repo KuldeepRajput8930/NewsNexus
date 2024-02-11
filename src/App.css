@@ -19,12 +19,15 @@ body {
 }
 
 .navbar {
-  background-color: #02254b;
+  background-color: #011e29;
   z-index: 2;
   position: fixed;
-  height: 60px;
   top: 0;
   width: 100vw;
+}
+
+.navbar-toggler {
+  filter: invert();
 }
 
 .navbar-brand {
@@ -41,6 +44,47 @@ body {
 
 .hover:hover {
   color: #cccdd1;
+}
+
+.banner {
+  background-color: #011e29;
+  height: 300px;
+  margin: 90px 10px 0px 10px;
+  border-radius: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 30px 0px 30px 0px;
+  letter-spacing: 2px;
+
+}
+
+.category-image {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.category-container {
+  width: 80%;
+  list-style: none;
+  overflow-x: scroll;
+}
+.category{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+  /* border: 2px solid red; */
+  text-decoration: none;
+  color: #fff;
+  width: 150px;
+  /* letter-spacing: 2px; */
+  font-size: 13px;
 }
 
 .loading {
@@ -73,8 +117,29 @@ body {
   height: 56px;
   border-radius: 50%;
   background: radial-gradient(farthest-side, #02254b 94%, #0000) top/9px 9px no-repeat, conic-gradient(#0000 30%, #02254b);
-  -webkit-mask: radial-gradient(farthest-side, #0000 calc(100% - 9px), #000 0);
+  mask: radial-gradient(farthest-side, #0000 calc(100% - 9px), #000 0);
   animation: spinner-c7wet2 1s infinite linear;
+}
+
+.badge {
+  display: flex;
+  top: 0;
+  justify-content: flex-end;
+  position: absolute;
+  right: 0;
+  background-color: #02254b;
+}
+
+.news-container {
+  width: 100%;
+  padding: 10px;
+}
+
+.newsItemContainer {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 @keyframes spinner-c7wet2 {
