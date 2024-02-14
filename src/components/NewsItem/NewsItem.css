@@ -1,0 +1,32 @@
+.badge {
+    display: flex;
+    top: 0;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+    background-color: #02254b;
+  }
+  .card-img-top {
+    height: 170px;
+  }
+  
+  .card-text {
+    height: 70px;
+    overflow: hidden;
+  }
+  
+  .card-title {
+    height: 50px;
+    overflow: hidden;
+  }
+  
+  .btn {
+    background-color: #02254b;
+  }
+  .dateAndAuthor {
+    margin-bottom: 1rem;
+  }
+  
+  .paragraph {
+    margin: 0;
+  }

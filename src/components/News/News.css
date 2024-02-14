@@ -1,0 +1,7 @@
+
+.newsItemContainer {
+  width: 100%;
+  display: inline-grid;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}

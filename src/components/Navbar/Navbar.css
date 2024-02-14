@@ -1,0 +1,18 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  background-color: #011e29;
+  z-index: 2;
+  }
+  
+  .navbar-toggler {
+    filter: invert();
+  }
+  
+  .navbar-brand, .nav-link {
+    color: #fff;
+  }
+  .nav-link:hover,  .navbar-brand:hover {
+    color: #cccdd1;
+  }
