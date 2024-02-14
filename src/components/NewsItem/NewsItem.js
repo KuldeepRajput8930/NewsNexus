@@ -5,7 +5,7 @@ const NewsItem =(props)=> {
 
     let { title, description, ImageUrl, NewsUrl, source, author, publishedAt } = props;
     return (
-      <div className="card my-4" style={{ width: '18rem' }}>
+      <div className="card my-4">
 
         <span className="badge">{source}</span>
         <img src={ImageUrl} className="card-img-top" alt="..." />

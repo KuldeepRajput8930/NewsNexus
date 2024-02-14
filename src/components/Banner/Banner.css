@@ -39,19 +39,9 @@
   width: 150px;
   font-size: 13px;
 }
-
 ::-webkit-scrollbar {
-  height: 5px;
+  width: 10px;
 }
-
-::-webkit-scrollbar-track {
-  background: #011e29;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #fff;
-}
-
 
 @media screen and (max-width: 1000px) {
   .category-container {
